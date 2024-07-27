@@ -8,6 +8,5 @@
 <a href="https://linkedin.com/in/sonali-mahato-33b36828b/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="sonalimahato" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalimahato&show_icons=true&locale=en&layout=compact" alt="sonalimahato" /></p>
 
 
