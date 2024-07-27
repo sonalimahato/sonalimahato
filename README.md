@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Chandan Majhi</h1>
+<h1 align="center">Hi I'm chandan majhi</h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalimahato&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
