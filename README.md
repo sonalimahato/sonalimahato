@@ -1,7 +1,7 @@
-<h1 align="center">Hi I'm chandan majhi</h1>
+<h1 align="center">Hi I'm Sonali Mahato</h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalimahato&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalimahato&label=Profile%20views&color=0e75b6&style=flat" alt="soanalimahato" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandan_majhi_7" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="chandan_majhi_7" height="30" width="40" /></a>
