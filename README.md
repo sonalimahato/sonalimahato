@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Sonali Mahato</h1>
-<h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
+<h2 align="center">I am a Computer Science Engineering student with a strong passion for coding and technology. I have gained proficiency in C++ and Python, and I am currently expanding my knowledge by learning Java and cloud fundamentals.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalimahato&label=Profile%20views&color=0e75b6&style=flat" alt="sonalimahato" /> </p>
 <h3 align="left">Connect with me:</h3>
