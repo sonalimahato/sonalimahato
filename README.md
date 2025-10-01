@@ -4,7 +4,6 @@
 <h2>👩‍💻 About Me:</h2>
 <ul>
   <li> <strong>My journey into data started with curiosity and quickly turned into a passion.
-  
   I’m learning to:
 - Clean, analyze & visualize data
 - Build dashboards 
