@@ -19,11 +19,11 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 </ul>
  -->
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Cloud+Learner;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
 
 # Hi there, I'm Sonali 👋  
 
-🚀 **Aspiring Data Analyst | Cloud Enthusiast | Tech Explorer**  
+🚀 **Aspiring Data Analyst | Tech Explorer**  
 💡 Passionate about turning raw data into meaningful insights.  
 
 ---
