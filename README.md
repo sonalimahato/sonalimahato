@@ -42,7 +42,6 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ---
 
-
 ### 📊 GitHub Stats  
 ![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalimahato&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahato&layout=compact&theme=tokyonight)  
@@ -52,11 +51,6 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=sonalimahato&theme=tokyonight&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/sonalimahato/sonalimahato/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
