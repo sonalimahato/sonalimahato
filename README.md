@@ -36,9 +36,9 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 
 ### 📊 GitHub Stats  
-![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sonalimahato&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sonalimahato&layout=compact&theme=tokyonight)  
-![Streak Stats](https://streak-stats.demolab.com/?user=https://github.com/sonalimahato&theme=tokyonight)  
+![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalimahato&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahato&layout=compact&theme=tokyonight)  
+![Streak Stats](https://streak-stats.demolab.com/?user=sonalimahato&theme=tokyonight)  
 
 ---
 
