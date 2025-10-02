@@ -19,19 +19,10 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 </ul>
  -->
 
-# Hi there, I'm Sona 👋  
+# Hi, I'm Sonali 👋  
 
-🚀 **Aspiring Data Analyst | Cloud Learner | Tech Explorer**  
+🚀 **Aspiring Data Analyst | Tech Explorer**  
 💡 Passionate about turning raw data into meaningful insights.  
-🌏 On a journey to become a Data Analyst and move to Japan 🇯🇵.  
-
----
-
-### 🛠️ Tech Stack & Tools  
-- **Languages:** Python, SQL  
-- **Data Tools:** Power BI, Excel  
-- **Cloud Platforms:** IBM Cloud  
-- **Other Skills:** GitHub, Canva, Figma  
 
 ---
 
@@ -42,12 +33,7 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ---
 
-### 🌱 Currently Learning  
-- Advanced SQL for analytics  
-- Data visualization best practices in Power BI  
-- Japanese (JLPT N5) for global opportunities 🇯🇵  
 
----
 
 ### 📊 GitHub Stats  
 ![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
