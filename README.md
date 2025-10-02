@@ -48,3 +48,7 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ✨ *"From raw data to meaningful dashboards, I love discovering insights and building projects that tell stories with data."*
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonalimahato&theme=tokyonight&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
