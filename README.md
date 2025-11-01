@@ -21,7 +21,7 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
 
-# Hi there, I'm Sonali 👋  
+# Hii, I'm Sonali 👋  
 
 🚀 **Aspiring Data Analyst | Tech Explorer**  
 💡 Passionate about turning raw data into meaningful insights.  
