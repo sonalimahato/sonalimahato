@@ -45,5 +45,3 @@
 ---
 
 ✨ *"Code. Analyze. Learn. Repeat."*
-
-this is the code i have. what are the things i can add into it to look it more interactive you can say interesting
