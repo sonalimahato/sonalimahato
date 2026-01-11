@@ -2,7 +2,7 @@
 
 # Hii, I'm Sonali 👋  
 
-🚀 **Aspiring Data Analyst | Tech Explorer**
+🚀 **Aspiring Data Analyst | Tech Explorer** <br>
 💡 Passionate about turning raw data into meaningful insights 
 
 ---
