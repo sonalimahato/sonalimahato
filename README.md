@@ -1,38 +1,13 @@
-<!-- <h1>Hi, I'm Sonali 👋</h1>
-<p>🚀 <strong>A B.Tech 3rd-year student passionate about data analytics</strong></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
 
-<h2>👩‍💻 About Me:</h2>
-<ul>
-  <li> <strong>My journey into data started with curiosity and quickly turned into a passion.
-  I’m learning to:
-- Clean, analyze & visualize data
-- Build dashboards 
-- Communicate insights effectively
+# Hii, I'm Sonali 👋  
 
-I believe learning by doing is the best way forward — and I’m doing just that!</strong></li>
-</ul>
-
-<h2>📫 Connect With Me:</h2>
-<ul>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="http://linkedin.com/in/sonali-mahato-33b36828b">linkedin-profile</a></li>
-  <li>🐦 <strong>Twitter/X:</strong> <a href="https://x.com/Sonali66281?t=QM-oZ2MGZjLCK35_lbYVoA&s=09">twitter-profile</a></li>
-</ul>
- -->
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer;Turning+Data+into+Insights)](https://git.io/typing-svg)
-
-# Hii, I'm Sonali 👋  
-
-🚀 **Aspiring Data Analyst | Tech Explorer** 💡 Passionate about turning raw data into meaningful insights through storytelling and visualization.
+🚀 **Aspiring Data Analyst | Tech Explorer**  
+💡 Passionate about turning raw data into meaningful insights.  
 
 ---
 
-### 🐍 Contribution Journey
-![snake animation](https://github.com/sonalimahato/sonalimahato/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🛠️ Tech Stack & Tools  
+### 🛠️ Tech Stack & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,38 +21,29 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ---
 
-### 📈 Featured Projects
-| Project Name | Tools Used | Link |
-| :--- | :--- | :--- |
-| **Sales Performance Dashboard** | Power BI, SQL | [View Project](#) |
-| **Netflix Data Exploration** | Python, Pandas | [View Project](#) |
-| **Housing Price Prediction** | Scikit-Learn | [View Project](#) |
-
----
-
-### 📊 GitHub Stats  
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sonalimahato&show_icons=true&theme=tokyonight" alt="Sona's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahato&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
+### 📊 GitHub Stats  
+![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalimahato&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahato&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalimahato&theme=dark&hide_border=true)
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=sonalimahato&theme=tokyonight&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🤝 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sonali-mahato-33b36828b)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalimahato.ds@gmail.com)  
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=sonalimahato&color=blue)  
 
 ---
 
-### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=sonalimahato&color=blue)  
+### 🤝 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sonali-mahato-33b36828b)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalimahato.ds@gmail.com)  
+
+---
 
 ✨ *"Code. Analyze. Learn. Repeat."*
 
+this is the code i have. what are the things i can add into it to look it more interactive you can say interesting
