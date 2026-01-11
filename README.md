@@ -19,12 +19,16 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 </ul>
  -->
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 # Hii, I'm Sonali 👋  
 
-🚀 **Aspiring Data Analyst | Tech Explorer**  
-💡 Passionate about turning raw data into meaningful insights.  
+🚀 **Aspiring Data Analyst | Tech Explorer** 💡 Passionate about turning raw data into meaningful insights through storytelling and visualization.
+
+---
+
+### 🐍 Contribution Journey
+![snake animation](https://github.com/sonalimahato/sonalimahato/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -42,9 +46,21 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ---
 
+### 📈 Featured Projects
+| Project Name | Tools Used | Link |
+| :--- | :--- | :--- |
+| **Sales Performance Dashboard** | Power BI, SQL | [View Project](#) |
+| **Netflix Data Exploration** | Python, Pandas | [View Project](#) |
+| **Housing Price Prediction** | Scikit-Learn | [View Project](#) |
+
+---
+
 ### 📊 GitHub Stats  
-![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalimahato&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahato&layout=compact&theme=tokyonight)  
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sonalimahato&show_icons=true&theme=tokyonight" alt="Sona's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalimahato&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalimahato&theme=dark&hide_border=true)
 
 ---
@@ -54,17 +70,14 @@ I believe learning by doing is the best way forward — and I’m doing just tha
 
 ---
 
-### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=sonalimahato&color=blue)  
-
----
-
 ### 🤝 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sonali-mahato-33b36828b)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalimahato.ds@gmail.com)  
 
 ---
 
-✨ *"Code. Analyze. Learn. Repeat."*
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=sonalimahato&color=blue)  
 
+✨ *"Code. Analyze. Learn. Repeat."*
 
