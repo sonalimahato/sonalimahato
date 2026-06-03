@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Scientist;Tech+Explorer)](https://git.io/typing-svg)
 
 # Hii, I'm Sonali 👋  
 
