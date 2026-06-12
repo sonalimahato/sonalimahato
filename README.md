@@ -23,6 +23,17 @@
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 ![IBM SPSS Modeler](https://img.shields.io/badge/IBM%20SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonalimahato/sonalimahato/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonalimahato/sonalimahato/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sonalimahato/sonalimahato/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 
