@@ -22,6 +22,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 ![IBM SPSS Modeler](https://img.shields.io/badge/IBM%20SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![DATA VISUALIZATION](https://img.shields.io/badge/DATA%20VISUALIZATION-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MACHINE LEARNING](https://img.shields.io/badge/MACHINE%20LEARNING-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
